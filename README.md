@@ -4,7 +4,7 @@ A quiz-based web application built using HTML, CSS, and JavaScript, designed to 
 
 This project was created as a personal learning exercise to strengthen JavaScript fundamentals and front-end UI structuring.
 
-
+---
 
 ## Features
 
@@ -15,7 +15,7 @@ This project was created as a personal learning exercise to strengthen JavaScrip
 - Category-based quiz sections
 - Clean and responsive UI layout
 
-
+---
 
 ## Tech Stack
 
@@ -23,39 +23,39 @@ This project was created as a personal learning exercise to strengthen JavaScrip
 - CSS
 - JavaScript
 
-
+---
 
 ## Screenshots
 
 ### Quiz Interface
-![Quiz Interface](quiz_interface.png)
+![Quiz Interface](screenshots/quiz_interface.png)
 
-
+---
 
 ### Sign Up Page
-![Sign Up Page](signup.png)
+![Sign Up Page](screenshots/signup.png)
 
-
+---
 
 ### Sign In Page
-![Sign In Page](signin.png)
+![Sign In Page](screenshots/signin.png)
 
-
+---
 
 ### Categories / Dashboard
-![Dashboard](dasboard.png)
+![Dashboard](screenshots/dasboard.png)
 
-
+---
 
 ### Continue Quiz View
-![Continue Quiz](continuing_dashboard.png)
+![Continue Quiz](screenshots/continuing_dashboard.png)
 
-
+---
 
 ### Footer Section
-![Footer](footer.png)
+![Footer](screenshots/footer.png)
 
-
+---
 
 ## About
 
@@ -67,7 +67,7 @@ This project focuses on practicing front-end development concepts, including:
 
 It is intended purely for learning and practice purposes and is not a production-ready application.
 
-
+---
 
 ## Note
 
